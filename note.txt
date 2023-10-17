@@ -1,0 +1,5 @@
+replace nhanh: ctrl + h
+
+truy cập web của mình = mobie
+mở terminal gõ: ipconfig -> lấy cái địa chỉ ipv4 + đầu port gõ vào web của mobie
+VD: 192.168.0.102:5500

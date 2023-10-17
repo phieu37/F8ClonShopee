@@ -1,0 +1,20 @@
+Dựng base source
+assets 	-> css	-> base.css và main.css
+	-> fonts
+	-> img
+index.html
+
+Reset CSS: normalize css cdn (sử dụng file min)
+https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css
+
+googlefont:
+https://fonts.google.com/
+
+cú pháp nhanh:
+Ctrl + [ hoặc Ctrl + ]
+padding: đẩy vào
+margin: đẩy ra
+margin padding vào thằng chứa cái mình cần
+
+copy ảnh svg xong thì sang đây làm đẹp
+https://htmlformatter.com/ 
